@@ -11,3 +11,5 @@ gem "sinatra", "~> 2.1"
 gem "rubocop", "~> 1.23"
 
 gem "webrick", "~> 1.7"
+
+gem "sinatra-reloader", "~> 1.0"
